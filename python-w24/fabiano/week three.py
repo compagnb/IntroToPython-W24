@@ -21,5 +21,8 @@ print(weightinkgs)
 weightonsaturn=weightinkgs*saturn
 print(weightonsaturn)
 print ("wow your "  + str (weightonsaturn) +  " lighter than me")
-peint 
-
+ 
+weightinkgs=int(weightinlbs)*lbs2kgs
+print(weightinkgs)
+weightonsaturn=weightinkgs*saturn
+print(weightonsaturn)
